@@ -1,0 +1,27 @@
+.meal-container {
+    font-family: fantasy;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+    transition: all 0.8s;
+    position: relative;
+}
+
+.meal-container:hover {
+    transform: scale(1.01);
+}
+
+.cart-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: unset;
+    /* background-color: #ECB26C; */
+    background-color: crimson;
+    color: white;
+    padding: 8px 20px;
+}
+
+.meal-container img {
+    max-width: 100%;
+    width: 100px;
+    height: 100px;
+}

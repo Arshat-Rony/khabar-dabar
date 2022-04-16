@@ -1,0 +1,182 @@
+[
+    {
+        "id": "625989e2a163ca1e235bd219",
+        "picture": "https://i.ibb.co/LS4Fz8t/breakfast1.png",
+        "price": 27,
+        "quantity": 0,
+        "type": "all meals breakfast",
+        "name": "Fried Chicken Bento",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e21955808b276f6f19",
+        "picture": "https://i.ibb.co/25FGMnJ/breakfast2.png",
+        "price": 32,
+        "quantity": 0,
+        "type": "all meals breakfast",
+        "name": "Beef Steak",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e22d75fc5838f81d7b",
+        "picture": "https://i.ibb.co/hD4K8VW/breakfast3.png",
+        "price": 34,
+        "quantity": 0,
+        "type": "all meals breakfast",
+        "name": "Tarragon-Rubbed-Salmon",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e2e9bc6bea2db57d52",
+        "picture": "https://i.ibb.co/Ky8g2py/breakfast4.png",
+        "price": 24,
+        "quantity": 0,
+        "type": "all meals breakfast",
+        "name": "Honey-Sloy Glazzed Salmon with Peeper",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e20195d2b86f2df983",
+        "picture": "https://i.ibb.co/znMBnhR/breakfast5.png",
+        "price": 37,
+        "quantity": 0,
+        "type": "all meals breakfast",
+        "name": "Simple Breakfast",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e29033292d0733dc87",
+        "picture": "https://i.ibb.co/Z2YD6Ff/breakfast6.png",
+        "price": 30,
+        "quantity": 0,
+        "type": "all meals breakfast",
+        "name": "Tanya Cooke",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e22ecd5ac31738fed4",
+        "picture": "https://i.ibb.co/XZ7Tqw7/lunch1.png",
+        "price": 21,
+        "quantity": 0,
+        "type": "all meals lunch",
+        "name": "Lunch Special",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e23e5e52c555716e6b",
+        "picture": "https://i.ibb.co/wKv0VMR/lunch2.png",
+        "price": 34,
+        "quantity": 0,
+        "type": "all meals lunch",
+        "name": "Fish Fry",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e2217faa8966b61e19",
+        "picture": "https://i.ibb.co/VVHB2bg/lunch3.png",
+        "price": 38,
+        "quantity": 0,
+        "type": "all meals lunch",
+        "name": "Fried Rice and Chili chicken",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e261c5be8b12c5d666",
+        "picture": "https://i.ibb.co/nkGzbYS/lunch4.png",
+        "price": 24,
+        "quantity": 0,
+        "type": "all meals lunch",
+        "name": "Eggs Fry and Spicy Sorba",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e272b8df7a1c8951f9",
+        "picture": "https://i.ibb.co/Rc3f2wd/lunch5.png",
+        "price": 39,
+        "quantity": 0,
+        "type": "all meals lunch",
+        "name": "CHicken Karahi",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e20705e80d68a95fa9",
+        "picture": "https://i.ibb.co/pznMrjJ/lunch6.png",
+        "price": 36,
+        "quantity": 0,
+        "type": "all meals lunch",
+        "name": "Kabab Fresh",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e21d2f19fa848abba9",
+        "picture": "https://i.ibb.co/jJ2RFfk/dinner1.png",
+        "price": 34,
+        "quantity": 0,
+        "type": "all meals dinner",
+        "name": "Fried fish and fried Rice",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e25a605383888533f5",
+        "picture": "https://i.ibb.co/nDVxbfJ/dinner2.png",
+        "price": 28,
+        "quantity": 0,
+        "type": "all meals dinner",
+        "name": "Stir fry",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e22c3b2ec0f6c6cd38",
+        "picture": "https://i.ibb.co/zHHQcNn/dinner3.png",
+        "price": 31,
+        "quantity": 0,
+        "type": "all meals dinner",
+        "name": "Fajitash",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e2c4680c7e95ea8146",
+        "picture": "https://i.ibb.co/swRcKV0/dinner4.png",
+        "price": 37,
+        "quantity": 0,
+        "type": "all meals dinner",
+        "name": "Meatballs and Rice",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e2c8322beabb23b5cb",
+        "picture": "https://i.ibb.co/RhR3mjP/dinner5.png",
+        "price": 26,
+        "quantity": 0,
+        "type": "all meals dinner",
+        "name": "Huebos Rancheros",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    },
+    {
+        "id": "625989e25b97a015844e16db",
+        "picture": "https://i.ibb.co/wL8vF1S/dinner6.png",
+        "price": 38,
+        "quantity": 0,
+        "type": "all meals dinner",
+        "name": "Hard tacos or tostadas",
+        "text": "Sweet Dish for You the unique food we offer always",
+        "desc": "This food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal, or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals."
+    }
+]

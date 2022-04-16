@@ -1,0 +1,43 @@
+.hero {
+    background-image: url(../../../images/others/bannerbackground.png);
+    background-size: cover;
+    background-position: 100% 0;
+    width: 100%;
+    background-repeat: none;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: fantasy;
+}
+
+.hero-text {
+    width: 400px;
+
+}
+
+#search {
+    border-radius: 30px;
+    height: 48px;
+    position: relative;
+    left: 50px;
+}
+
+#search-btn {
+    background-color: crimson;
+    color: white;
+    border-radius: 30px;
+    position: relative;
+    right: 50px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+@media (min-width:768px) {
+    .hero-text {
+        width: 600px;
+    }
+}

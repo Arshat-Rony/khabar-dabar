@@ -1,0 +1,18 @@
+.shipment-container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.shipment-container>* {
+    flex-basis: 50%;
+}
+
+.shipping-details form input:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.order-box {
+    background-color: #f0ebddcc;
+    border-radius: 10px;
+}

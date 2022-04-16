@@ -1,0 +1,17 @@
+.float {
+    width: 300px;
+    height: 2px;
+    margin: 20px 0;
+}
+
+form input {
+    min-width: 300px;
+}
+
+@media (min-width:768px) {
+    .float {
+        width: 2px;
+        height: 350px;
+        margin: 20px 0;
+    }
+}

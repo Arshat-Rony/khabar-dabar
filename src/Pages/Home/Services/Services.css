@@ -1,0 +1,26 @@
+.services-container {
+    max-width: 80%;
+    margin: 60px auto;
+}
+
+.services {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 15px;
+}
+
+.services-text {
+    font-family: fantasy;
+}
+
+@media(min-width:768px) {
+    .services {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media(min-width:992px) {
+    .services {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

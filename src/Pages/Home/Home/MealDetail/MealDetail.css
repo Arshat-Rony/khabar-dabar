@@ -1,0 +1,25 @@
+.meal-detail h3 {
+    font-family: fantasy;
+}
+
+.meal-detail {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.meal-detail>.image img {
+    width: 450px;
+}
+
+.btn-box {
+    border: 1px solid rgb(150, 145, 145);
+    border-radius: 30px;
+    padding: 8px 15px;
+}
+
+#img-btn:focus,
+#img-btn:active:focus,
+#img-btn.active:focus {
+    outline: none;
+    box-shadow: none;
+}
